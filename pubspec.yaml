@@ -12,7 +12,9 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
-
+  firebase_auth: ^3.3.5
+  cloud_firestore: ^3.1.6
+    
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -21,4 +23,3 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  
